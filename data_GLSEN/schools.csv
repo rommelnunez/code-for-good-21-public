@@ -1,0 +1,1001 @@
+school_id,name,state,zip_code,county
+1,Universitas Negeri Malang,FL,33694,Hintze
+2,Université de Monastir,NC,27610,Saint Paul
+3,Palestine Technical University - Kadoorie,WI,53790,Grim
+4,Louisiana State University at Eunice,PA,17110,Mockingbird
+5,Build Bright University,AZ,85025,Golf
+6,Instituto Politécnico de Tomar,MA,1152,Jackson
+7,Finnmark University College,MD,20883,Huxley
+8,Mongolian State University of Agriculture,MN,55590,Rusk
+9,International University,CA,94105,Loeprich
+10,Universitas Persada Indonesia Y.A.I,UT,84605,Warbler
+11,Huafan University,IN,46247,Paget
+12,Universidad Nacional de Catamarca,CT,6538,Gale
+13,Wollo University,CA,93305,Park Meadow
+14,Kumamoto Prefectural University,FL,33462,Pennsylvania
+15,Universidad Técnica Latinoamericana,OH,44197,Fuller
+16,Omdurman Islamic University,NY,11499,Transport
+17,Lambuth University,TN,37405,Clyde Gallagher
+18,Goshen College,DC,20525,Susan
+19,Daiichi University of Economics,NC,28263,Fairview
+20,Universitas Islam Syekh-Yusuf ,IN,47405,Talisman
+21,New Mexico Institute of Mining and Technology,AL,36622,Parkside
+22,Instituto Superior de Saúde do Alto Ave,NC,27404,Pine View
+23,Tabriz University of Medical Sciences,DC,20503,Express
+24,Kumamoto Institute of Technology,KS,67215,Cardinal
+25,"Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft",TX,78732,Rusk
+26,Tula State University,OK,73135,Corscot
+27,Tartu Health Care College,NV,89706,Harper
+28,University of Calgary,NM,87505,Di Loreto
+29,Universidad Autónoma Metropolitana - Xochimilco,MI,48275,Ridgeway
+30,Shenyang Institute of Chemical Technology,TX,78769,Elka
+31,Universidad Católica Argentina Santa Maria de los Buenos Aires,IN,46207,Blaine
+32,Asa University Bangladesh,CA,93740,Jenna
+33,Virginia Polytechnic Institute and State University (Virginia Tech),KY,40250,Fallview
+34,University of Wisconsin - Parkside,PA,19151,Dunning
+35,Columbus University,TX,77055,Ilene
+36,Music Academy in Cracow,KS,66220,Jenna
+37,"University of Medicine 1, Yangon",DC,20210,Rutledge
+38,Debrecen University of Agricultural Sciences,CA,95354,Superior
+39,Bezalel Academy of Art and Design,UT,84125,Village Green
+40,Jingdezhen China Institute,CT,6606,Cody
+41,Toho University,CA,90071,Petterle
+42,Penza State University,PA,15286,Lighthouse Bay
+43,"Academy of Arts ""George Enescu"" Iasi",CA,91505,Ryan
+44,University of North Carolina at Asheville,VA,23203,Steensland
+45,The Petroleum Institute,IA,50320,7th
+46,Medical University of Sofia,HI,96815,Truax
+47,Politeknik Negeri Bandung,OH,43231,Linden
+48,National College for Medical and Technical Studies,TX,77276,Carberry
+49,Chukyo Women's University,MO,63116,Mccormick
+50,Asia Europe University,CA,94105,Blaine
+51,Fachhochschule Ingolstadt,NY,10045,Paget
+52,Open University of Cyprus,VA,22070,Stoughton
+53,Abai State University,CA,92176,Fordem
+54,"Islamic Azad University, Tehran Medical",KY,40298,Mockingbird
+55,Universidad Hispanoamericana,CA,92153,Colorado
+56,Soutsaka Institute of management and Technology,AZ,85210,Spohn
+57,University of LaVerne in Athens,PA,18706,Forster
+58,West Pomeranian Business School in Szczecin,IN,46867,Bashford
+59,Konkan Agricultural University,FL,32610,Cascade
+60,Kagawa University,IL,60686,Emmet
+61,Hahnamann Honoeopathic Medical College,AZ,85710,Briar Crest
+62,Drexel University,OH,45807,Bobwhite
+63,China Pharmaceutical University Nanjing,MT,59623,Birchwood
+64,Shaheed Zulifkar Ali Bhutto Institute of Science and Technology,AL,36104,Schiller
+65,Fred Hutchinson Cancer Research Center,PA,19495,Johnson
+66,Tuskegee University,DC,20046,Pennsylvania
+67,University of the Italian-speaking Part of Switzerland,NY,14619,Manitowish
+68,Semnan University,OH,43635,Namekagon
+69,Shorter College,TX,77276,Stuart
+70,Amman University,WI,53210,Lerdahl
+71,Bodo Regional University,CA,90065,Vidon
+72,University of LaVerne in Athens,CA,90010,Manitowish
+73,Kanazawa College of Economics,FL,33710,Iowa
+74,Netaji Subhas Inst of Technology,NJ,7208,Harper
+75,Lindenwood University,SC,29805,Fremont
+76,Dar al Hekma College,TN,38161,Rowland
+77,Universidade do Algarve,CA,90040,Moulton
+78,Augusta State University,CA,92191,Emmet
+79,"Universidad Argentina ""John F. Kennedy""",TX,75705,Loomis
+80,Fachhochschule Dortmund,NH,3804,Spohn
+81,Ajou University,MO,65805,Northport
+82,Ecole Polytechnique Universitaire de Lille,IN,46207,Ludington
+83,"Music Academy ""Felix Nowowiejski"" in Bydgoszcz",DC,20057,East
+84,Texas Christian University,UT,84152,Miller
+85,Universidad Autónoma del Caribe,NC,28284,Truax
+86,"Institute of Teachers Education, Raja Melewar",NV,89140,Dunning
+87,Hastings College,TX,75367,Anderson
+88,Miyazaki Prefectural Nursing University,AZ,85072,5th
+89,Solapur University,FL,33345,Ruskin
+90,Jazan University,KS,66611,Talisman
+91,Swami Ramanand Teerth Marathwada University,TX,77288,Grasskamp
+92,Baltimore International College,TX,79118,Farmco
+93,Mountain View College,DC,20397,Morrow
+94,Capitol University,NV,89178,Redwing
+95,United States Air Force Academy,CO,80045,Prairieview
+96,International Turkmen Turkish University,NV,89714,Anthes
+97,University of Texas at San Antonio,OK,74133,Lukken
+98,Denver Paralegal Institute,FL,32891,Carberry
+99,Kursk State Medical University,FL,33462,Pennsylvania
+100,John Brown University,OH,44197,Fuller
+101,University of Wisconsin - Madison,NY,11499,Transport
+102,Royal University of Agriculture,TN,37405,Clyde Gallagher
+103,Makhanlal Chaturvedi National University of Journalism and Communication,DC,20525,Susan
+104,Dav University,NC,28263,Fairview
+105,University of Macedonia,IN,47405,Talisman
+106,Police Academy,AL,36622,Parkside
+107,Vermont Technical College,NC,27404,Pine View
+108,Technological University of Iceland,DC,20503,Express
+109,Kochi Medical School,KS,67215,Cardinal
+110,Universidade Regional do Cariri,TX,78732,Rusk
+111,Arab Open University,OK,73135,Corscot
+112,Brookdale Community College,TN,38188,Loftsgordon
+113,Yildirim Beyazit University,TX,78710,Killdeer
+114,Centro Universitário Barao de Maua,TX,79764,David
+115,Mekelle University,FL,33018,Oak
+116,Merlimau Polytechnic,OH,43656,Ludington
+117,Bethel College St. Paul,FL,33487,Lyons
+118,Thomas College Maine,FL,33694,Hintze
+119,Shanghai Television University,NC,27610,Saint Paul
+120,University of North Alabama,WI,53790,Grim
+121,Tambov State Technical University,PA,17110,Mockingbird
+122,Kannur University,AZ,85025,Golf
+123,Ecole Nationale Supérieure d'Agronomie de Rennes,VA,20195,Prairie Rose
+124,Dongshin University,CA,91199,Troy
+125,Ural State Technical University,NY,14619,Service
+126,Université Badji Mokhtar,WA,99220,Clemons
+127,Kunsan National University,IN,46852,Pepper Wood
+128,"Institute of Teachers Education, Sarawak",LA,71115,Sheridan
+129,Universidad Nacional de Entre Ríos,TN,37205,Randy
+130,Instituto Tecnológico de Sonora,CA,95833,Coolidge
+131,Ateneo de Manila University,DC,20238,Pearson
+132,Andong National University,IA,50393,Johnson
+133,Dongduk Women's University,UT,84189,Autumn Leaf
+134,Catholic University in Ruzomberok,OH,43210,Pepper Wood
+135,"Islamic Azad University, Tafresh",FL,34108,Maple Wood
+136,Chengdu University of Technology,LA,70116,Londonderry
+137,Air Force Institute of Technology,IN,47725,Corben
+138,Universidad Tecnológica Oteima,MO,65110,Briar Crest
+139,Seoul National University,TX,77260,Calypso
+140,The College of New Jersey,IA,50706,Lakeland
+141,Ukrainian Academy of Banking,PA,16550,Comanche
+142,Alverno College,AZ,85045,Golf Course
+143,Punjab Engineering College Deemed University,VA,24009,Pepper Wood
+144,Takushoku University,FL,34620,Pearson
+145,Agricultural University of Wroclaw,OH,44177,Dayton
+146,Science University of Tokyo in Yamaguchi,FL,32891,Duke
+147,Ekiti State University,MI,48335,Carberry
+148,Al-Eman University,AZ,85284,Loftsgordon
+149,University of Latvia,AZ,85045,Summer Ridge
+150,University of Florence,NY,10474,Vidon
+151,Centre College,FL,34114,Petterle
+152,"National Chung Hsing University, Taichung",CA,95160,Grayhawk
+153,Belarussian State Academy of Music,WA,98411,Arkansas
+154,Kokushikan University,CO,80126,Autumn Leaf
+155,"Institute of Teachers Education, Sarawak",PA,17121,Ronald Regan
+156,Marathwada Agricultural University,MA,1152,Jackson
+157,"University ""Petre Andrei"" Iasi",MD,20883,Huxley
+158,Copenhagen University,MN,55590,Rusk
+159,Royal Holloway and Bedford New College,CA,94105,Loeprich
+160,Royal Melbourne Institute of Technology,UT,84605,Warbler
+161,Tierärztliche Hochschule Hannover,IN,46247,Paget
+162,University of Prince Edward Island,CT,6538,Gale
+163,"Universidad Católica Boliviana, Cochabamba",CA,93305,Park Meadow
+164,Fachhochschule Schmalkalden,FL,33462,Pennsylvania
+165,Odessa State Medical University,OH,44197,Fuller
+166,Kabul Education University,NY,11499,Transport
+167,Tashkent Islam University,TN,37405,Clyde Gallagher
+168,Blackburn College,DC,20525,Susan
+169,Newports Institute of Communication & Economics,NC,28263,Fairview
+170,Philosophisch-Theologische Hochschule Münster,DC,20260,Surrey
+171,Institute of Industrial Electronics Engineering,NV,89087,Lakewood Gardens
+172,Oklahoma Panhandle State University,FL,32627,5th
+173,Oregon State University,UT,84093,Raven
+174,Odessa National Polytechnic University,OR,97271,Saint Paul
+175,National Agricultural University,TX,76711,Kipling
+176,Baha'i Institute for Higher Education,NY,10606,Oakridge
+177,Kyungpook National University,VA,23208,Welch
+178,University of Economics Prague,CT,6859,Rockefeller
+179,St. Leo College,VA,22205,Sachs
+180,Universitas Mercu Buana,CA,93106,Corscot
+181,Universitas Negeri Surabaya,FL,34474,Alpine
+182,Gollis University,TX,79928,Sullivan
+183,Sylhet Agricultural University,CO,81010,Mcguire
+184,Mid-America Nazarene University,MO,65898,Mcbride
+185,Georg-Simon-Ohm-Fachhochschule Nürnberg,OH,43268,Namekagon
+186,University of Basrah,CA,92822,Express
+187,State University of Management,GA,30092,Badeau
+188,Universidade Católica de Salvador,MA,2216,Kim
+189,Hamline University,GA,30605,Service
+190,Private College of Dentistry and Pharmacy,NC,27690,Ronald Regan
+191,Academy of Arts,MI,49505,Crowley
+192,Gansu Agricultural University,MI,48295,Barnett
+193,Cameron University,TX,77055,Springs
+194,The New School,TX,78726,Longview
+195,Georgia Southwestern University,CA,91131,Portage
+196,University of Munawwar-ul-Islam,CA,93591,Cherokee
+197,Universidad Nacional Hermilio Valdizan,CA,94250,Debs
+198,University of Perugia,WA,98907,Boyd
+199,University College of the Cariboo,TX,77240,Brickson Park
+200,Royal Danish School of Educational Sciences,NC,28405,Walton
+201,Universitas Muria Kudus,FL,32259,Montana
+202,University of Grigol Robakidze,AK,99522,Heath
+203,Buckinghamshire New University,CA,93726,4th
+204,Universidad de Puerto Rico,TX,88530,Fairfield
+205,Uganda Martyr's University,NC,27690,Straubel
+206,Management and Science University,MT,59771,Old Gate
+207,University of Bergamo,FL,33487,Eagan
+208,University of Southern Denmark,FL,33111,Gina
+209,East Ukrainian National University,TX,76598,Boyd
+210,University Vitez In Travnik,NV,89714,Ridgeway
+211,Paine College,TX,76796,Glendale
+212,"Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft",MI,48912,Merry
+213,"Universidad del Norte ""Santo Tomás de Aquino""",TN,38197,Mcguire
+214,Universidade São Judas Tadeu,NY,10110,Anhalt
+215,Conestoga College,NY,12305,Hauk
+216,Universidad Internacional de las Américas,MO,63143,Jackson
+217,Noakhali University of Science and Technology,CA,90189,Di Loreto
+218,"University of Washington, Tacoma",CA,93584,6th
+219,"Polytechnic University, Long Island Campus",FL,33694,Hintze
+220,"University of California, Davis",NC,27610,Saint Paul
+221,Quinnipiac College,WI,53790,Grim
+222,Victoria University of Wellington,PA,17110,Mockingbird
+223,Korea National Open University,AZ,85025,Golf
+224,Iwate University,VA,20195,Prairie Rose
+225,Institut d'Etudes Politiques de Paris (Sciences Po),CA,91199,Troy
+226,Daystar University,NY,14619,Service
+227,Damghan University of Basic Sciences,WA,99220,Clemons
+228,Ecole Nationale Supérieur de Géologie de Nancy,IN,46852,Pepper Wood
+229,Instituto Universitario de Estudios Navales y Marítimos,LA,71115,Sheridan
+230,Saybrook Institute,FL,33462,Pennsylvania
+231,Technological University (Taunggyi),OH,44197,Fuller
+232,Kazan State University,NY,11499,Transport
+233,Dalian University,TN,37405,Clyde Gallagher
+234,School of the Visual Arts,DC,20525,Susan
+235,Universitas Pendidikan Indonesia,NC,28263,Fairview
+236,University of Wisconsin - River Falls,IN,47405,Talisman
+237,Lincoln University,AL,36622,Parkside
+238,Instituto Superior de Psicologia Aplicada,NC,27404,Pine View
+239,Vancouver Community College,DC,20503,Express
+240,American InterContinental University - Atlanta,KS,67215,Cardinal
+241,"Islamic Azad University, Region One",TX,78732,Rusk
+242,Oregon Health Sciences University,OK,73135,Corscot
+243,University of Art and Design Helsinki,IL,60193,Erie
+244,Isabela State University,KS,66105,Shopko
+245,Tomsk State University,KY,40618,Arizona
+246,University of Colorado at Boulder,NC,28215,Fulton
+247,"University of New England, Westbrook College Campus",TX,78255,Tomscot
+248,University of Saint La Salle,NC,28305,Lillian
+249,Pabna University of Science and Technology,IL,60609,Meadow Valley
+250,Universidad Autónoma de la Laguna,TX,75397,Brentwood
+251,Instituto Tecnologico de Minatitlan,OK,74141,Sutteridge
+252,Sonoda Women's University,TX,88541,Mcguire
+253,Moscow State University of Ecological Engineering,CT,6905,Veith
+254,New York Medical College,AL,35205,Golf Course
+255,Chittagong Independent University,TX,76205,Cascade
+256,Ryukoku University,FL,34210,Tomscot
+257,Antioch University Santa Barbara,MI,48092,Brickson Park
+258,University of Cincinnati,TN,38181,Marquette
+259,Universidad Central de Nicaragua,MO,64504,Northport
+260,"Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",MD,21203,Straubel
+261,Guangzhou University of Traditional Chinese Medicine,FL,32230,Helena
+262,University of South Australia,SD,57105,6th
+263,Universitas Yarsi,GA,30022,8th
+264,Pratt Institute,ID,83711,Victoria
+265,Bemidji State Univeristy,NY,10249,Blackbird
+266,East Central University,DC,20540,Emmet
+267,"Islamic Azad University, Sowmesara",VA,23237,Jana
+268,North Central College,AZ,85743,Claremont
+269,Sunchon National University,OH,43204,Mariners Cove
+270,University of Helsinki,IL,60435,Jay
+271,Pädagogische Hochschule Schwäbisch Gmünd,CA,91499,Monument
+272,Valahia University of Targoviste,CA,94405,Russell
+273,Galatasaray University,TX,79705,Loeprich
+274,Rhodes University,TX,79764,Farragut
+275,Faculdade Italo Brasileira,MA,2162,Donald
+276,Fachhochschule Hof,FL,33694,Hintze
+277,Wright State University,NC,27610,Saint Paul
+278,State University of New York College at Old Westbury,WI,53790,Grim
+279,Izmir Economic University,PA,17110,Mockingbird
+280,Pan-African University,AZ,85025,Golf
+281,Spelman College,VA,20195,Prairie Rose
+282,Instituto Politécnico de Portalegre,CA,91199,Troy
+283,Southern California College,NY,14619,Service
+284,Antioch University Los Angeles,WA,99220,Clemons
+285,Tabriz University of Medical Sciences,IN,46852,Pepper Wood
+286,Albertus Magnus College,LA,71115,Sheridan
+287,Technical University of Mombasa,TN,37205,Randy
+288,Mandhu College,CA,95833,Coolidge
+289,Université Vincennes Saint-Denis (Paris VIII),DC,20238,Pearson
+290,Universidade Federal da Bahia,IA,50393,Johnson
+291,Moldova Technical University,UT,84189,Autumn Leaf
+292,Texas A&M University,TX,78703,Sutherland
+293,Khabarovsk State Academy of Economics and Law,AZ,85271,Westend
+294,Middlebury College,MD,21275,American Ash
+295,Suzuka International University,CA,95054,Waubesa
+296,Ohtani Women's University,TX,77050,Pennsylvania
+297,Universität Klagenfurt,NY,11225,Jana
+298,University Institute of Modern Languages,PA,16107,Carberry
+299,Yanbu Technical Institute,IN,47134,Clemons
+300,Nippon Veterinary and Animalscience University,GA,30386,Bunker Hill
+301,St. Petersburg State Technological University of Plant Polymers,TX,76796,Saint Paul
+302,"Indian Institute of Technology, Roorkee",TX,77554,Superior
+303,Tampere University of Technology,IN,46805,Oxford
+304,Quincy University,CA,93907,Pleasure
+305,Misan University,CA,93773,Waywood
+306,University of Namibia,OR,97216,La Follette
+307,Universität für künstlerische und industrielle Gestaltung Linz,WV,25726,Crowley
+308,Lutherische Theologische Hochschule Oberursel,TX,78285,Forest
+309,Dar al Hekma College,VA,22111,Pennsylvania
+310,Universidad del Rosario,FL,33462,High Crossing
+311,Cleveland Institute of Art,,60435,Jay
+312,International University College,,91499,Monument
+313,Universidad de Bologna - Representación en Buenos Aires,,94405,Russell
+314,Al Fashir University,,79705,Loeprich
+315,Universidad Capitain General Gerardo Barrios,,79764,Farragut
+316,Utsunomiya University,,2162,Donald
+317,Universität Rostock,,33694,Hintze
+318,Institut National des Sciences Appliquées de Toulouse,,96154,International
+319,Athabasca University,,2162,Meadow Ridge
+320,University of Illinois,,88579,Farwell
+321,Georgia College & State University,,80044,Holmberg
+322,College of Notre Dame,,90087,Morningstar
+323,Universidade Luterana do Brasil,,98008,Dorton
+324,Universidad Tecnológica Oteima,,92410,Melody
+325,University of Kurdistan,,25356,Farmco
+326,Universidad ISALUD,,62718,Trailsway
+327,Nordic School of Public Health,CA,34276,Hallows
+328,Universidad Católica de Ávila,IL,62718,Trailsway
+329,University of Mindanao,FL,34276,Hallows
+330,Madawalabu University,WI,53234,Katie
+331,Kobe Women's University,NC,27615,Logan
+332,California Lutheran University,NY,12205,Kinsman
+333,University of Connecticut,NC,27658,Anthes
+334,Universidad de Matanzas Camilo Cienfuegos,MO,65810,Stoughton
+335,El Colegio de México,VA,23225,Mcguire
+336,Taylor's University College,TX,76796,Maple Wood
+337,RCSI-Medical University of Bahrain,CA,96154,International
+338,Northwestern University In Qatar,MA,2162,Meadow Ridge
+339,Liepaja Pedagogical Higher School,TX,88579,Farwell
+340,Norway's Information Technology University College,CO,80044,Holmberg
+341,Chongqing University of Post and Telecommunications,CA,90087,Morningstar
+342,University of Rochester,WA,98008,Dorton
+343,Metropolitan State University,CA,92410,Melody
+344,Mulungushi University,WV,25356,Farmco
+345,Pavol Jozef Safarik University in Kosice,NY,11499,Eastlawn
+346,Communication University of China,OR,97216,Hayes
+347,Universidade Federal de Pelotas,NY,10120,Melby
+348,Rollins College,MS,39204,Southridge
+349,Anhui Normal University,NY,12305,Fulton
+350,Cyprus College,AZ,85025,Straubel
+351,University of Jordan,KS,66699,Northport
+352,National Defense University,NY,14614,Rowland
+353,Universidad Carlos III de Madrid,KS,66220,Mockingbird
+354,Xavier University,VA,23464,Anzinger
+355,Oklahoma State University Center for Health Sciences,TX,78778,Independence
+356,Hanoi University of Architecture,TX,75074,Oxford
+357,Tomsk State University of Control Systems and Radioelectronics,NY,10557,Merchant
+358,Qufu Normal University,NY,10165,4th
+359,The University of Nottingham Ningbo China,DC,20404,Continental
+360,Avila College,NY,11247,Quincy
+361,Lancaster Bible College,TX,88535,Lunder
+362,Saurashtra University,OH,44710,International
+363,IT University of Copenhagen,NY,10165,Meadow Vale
+364,Hebei Medical University,CA,92030,Superior
+365,Qingdao University,AL,35236,Toban
+366,Hajee Mohammad Danesh Science and Technology University,FL,33448,Melrose
+367,Baylor College of Dentistry,VA,23203,Everett
+368,Muscat College,TX,79171,Kensington
+369,Mississippi University for Women,OH,45223,Clyde Gallagher
+370,Salem State College,WI,53785,Londonderry
+371,Warren Wilson College,NC,27264,Anniversary
+372,Thamar University,CA,93106,1st
+373,National Pirogov Memorial Medical University,IL,60657,Mesta
+374,Korea Maritime University,LA,71105,Beilfuss
+375,"Universidad de La Salle, Bajío",FL,32854,Merry
+376,International University for Graduate Studies,WA,98481,Shoshone
+377,"Islamic Azad University, Shirvan",TX,79950,Corben
+378,Lincoln University,NY,14205,Glendale
+379,University of Macedonia,VA,23454,Mendota
+380,George Brown College,NJ,8619,Sunfield
+381,Tokai Gakuen University,NY,10249,Rusk
+382,Universitas Advent Indonesia,AZ,85710,Mallory
+383,Sana'a University,IL,60669,Warner
+384,Crawford University ,MN,55598,West
+385,Universitas Palangka Raya,AL,35236,Sutteridge
+386,Lincoln Memorial University,CA,94622,Commercial
+387,Loma Linda University,PA,19115,Pine View
+388,Kobe University of Mercantile Marine,NC,28805,Merrick
+389,Universidade Estadual de Campinas,VA,24040,Express
+390,Tartu Health Care College,PA,17140,Sutteridge
+391,European University Institute,AK,99599,Schlimgen
+392,Southern Ural State University,FL,32964,Service
+393,William Penn College,MN,55590,Donald
+394,Henan Buddhist College,GA,30356,Mosinee
+395,Armenian State University of Economics,VA,20167,Saint Paul
+396,K.N.Toosi University of Technology,OH,45454,Dryden
+397,Khalifa University,FL,34615,Almo
+398,University of Information Technology and Management in Rzeszow,PA,18505,Kenwood
+399,"Islamic Azad University, Fars Science & Research Branch",WA,98447,Larry
+400,Moscow State Academy of Applied Biotechnology,DC,20016,American Ash
+401,"Islamic Azad University, Aliabad ",CA,93381,Blue Bill Park
+402,University Campus Suffolk,TX,78769,Heffernan
+403,NED University of Engineering and Technology Karachi,IA,52410,Green
+404,Northwest College of Art,FL,34205,Orin
+405,Assosa University,CA,90605,Brown
+406,Dumlupinar University,CA,95194,Eliot
+407,James Madison University,NC,27110,Ohio
+408,Irish International University (Distance Education),OH,44485,Hoard
+409,Royal Military College of Canada,KS,66105,Bunting
+410,Bentley College,TX,79994,Dovetail
+411,Ecole Nationale Supérieure de Physique de Marseille,TX,76162,Claremont
+412,Oklahoma Baptist University,NY,14905,Johnson
+413,Ungku Omar Premier Polytechnic,SC,29615,Monument
+414,Friends University,CO,80209,Westridge
+415,International University School of Medicine (IUSOM),LA,70883,Homewood
+416,Tokyo College of Music,WV,25716,Florence
+417,University of Nebraska (System),OH,45403,Grayhawk
+418,Mayville State University,WV,25770,Pennsylvania
+419,European Management Center Paris,CA,91520,Marquette
+420,Shaoguan University,NM,87505,Bay
+421,University of Education,FL,32969,Golden Leaf
+422,American University of Paris,CA,93386,Emmet
+423,University of the Pacific,CA,90189,Sachtjen
+424,McGill University,IA,50315,Schurz
+425,Tomsk State University,UT,84403,Dexter
+426,University of Texas Health Center at Tyler,WV,25336,Katie
+427,Gansu University of Technology,MO,64187,Springview
+428,Universidad Autónoma del Carmen,OR,97306,Manufacturers
+429,University of Tuzla,VA,24503,Basil
+430,Jönköping University College of Health Sciences,TX,76505,Alpine
+431,Sardar Vallabhai Patel University of Agriculture Amd Technology,IL,61629,Ludington
+432,Wuyi University,AL,35220,Autumn Leaf
+433,Ryutsu Keizai University,FL,32610,Ronald Regan
+434,Midlands State University,CA,92825,Namekagon
+435,Universidad Bolivariana,TX,75246,Hoepker
+436,Montreat College,KS,66611,Mayfield
+437,Applied Science University,ND,58207,Waubesa
+438,University of Buckingham,NM,87110,Mifflin
+439,Escuela Superior Politécnica del Litoral,PA,19146,Saint Paul
+440,Gdansk Management College,TX,78410,Upham
+441,Perak Islamic College,TX,75246,Mariners Cove
+442,Hokkaido University of Education,NY,10310,Weeping Birch
+443,University of Priština,PA,15261,Hauk
+444,Law University of Bratislava,LA,70836,Monument
+445,Susquehanna University,GA,30380,Lukken
+446,Universidad Autónoma del Estado de México,NE,68134,Hayes
+447,Universidad Experimental Felix Adam,DC,20016,Pearson
+448,Noakhali University of Science and Technology,LA,71208,Everett
+449,Kobe Shinwa Women's University,NY,14276,Gale
+450,Sam Houston State University,TX,79989,Vera
+451,San Francisco Conservatory of Music,LA,70607,Truax
+452,Universidad La Salle,WA,99220,Melby
+453,Kumamoto University,TX,78759,Prentice
+454,Guangzhou Normal University,NY,12262,Pleasure
+455,Ilia Chavchavadze State University,TX,77040,Melvin
+456,International University College of Technology Twintech (IUCTT),CA,92145,5th
+457,Beth-El College of Nursing and Health Sciences,CA,90015,Talmadge
+458,Mountain State University,IN,47732,Bay
+459,"University of Shkodra ""Luigj Gurakuqi""",IL,60697,Ludington
+460,Hoshi University,TX,76505,Pearson
+461,Universidad Pedagógica y Tecnológica de Colombia,MI,48076,Golf View
+462,University of Science & Technology Bannu,DC,20062,Grover
+463,College in Sládkovičovo,TX,79994,Dovetail
+464,Abant Izzet Baysal University,TX,76162,Claremont
+465,Brigham Young University,NY,14905,Johnson
+466,Escuela Superiore de Administración Pública,SC,29615,Monument
+467,Technical University of Warsaw,CO,80209,Westridge
+468,Universidad Alas Peruanas,LA,70883,Homewood
+469,Guizhou Normal University,WV,25716,Florence
+470,Ho Chi Minh City University of Social Sciences and Humanities,OH,45403,Grayhawk
+471,University of San Carlos,WV,25770,Pennsylvania
+472,Chang Gung University,CA,91520,Marquette
+473,Ecole Supérieure de Commerce de Grenoble,NM,87505,Bay
+474,Theologische Fakultät Trier,CA,90035,Scofield
+475,Wheaton College Massachusetts,MO,63150,Warbler
+476,Liaquat University of Medical & Health Sciences Jamshoro,CT,6721,Morning
+477,Ursuline College,DC,20599,Schiller
+478,Yaroslavl State Pedagogical University,NV,89519,Ruskin
+479,Aria Institute of Higher Education,CA,92710,Melody
+480,Universiti Utara Malaysia,NY,12237,Mallory
+481,Institut Textile et Chimique de Lyon,TN,37210,Summerview
+482,"Rasmussen College, North Dakota Campuses",AZ,85210,Cody
+483,Linköping University,TX,78682,Cascade
+484,Shahrood University of Medical Sciences,NY,14639,Milwaukee
+485,University of Sibiu,CA,93715,Crest Line
+486,Western New England College,VA,24029,Farmco
+487,Escuela Superior de Gestion Comercial y Marketing (ESIC),NY,12237,Briar Crest
+488,Nakhchivan State University,CA,90050,Hoepker
+489,College of New Rochelle,MI,49518,Coleman
+490,Krirk University,CO,81505,Mendota
+491,Universidade do Rio de Janeiro,CA,93305,Fieldstone
+492,Leading University,ID,83757,Nevada
+493,Universidade Federal da Bahia,FL,34949,Park Meadow
+494,University of Arizona,CO,80305,Coleman
+495,Dalian Martime University,FL,33147,Emmet
+496,"Indian Institute of Technology, Madras",TX,79911,Loomis
+497,"Universidad Nacional Experimental de los Llanos Occidentales ""Ezequiel Zamora""",AL,36641,Longview
+498,University of Alaska - Anchorage,MD,21216,Autumn Leaf
+499,Loyola College in Maryland,GA,30130,Ruskin
+500,European Management School,NY,13251,Vera
+501,Hochschule Bremen,GA,30351,Farragut
+502,Engineering College of Copenhagen,CA,90081,Marquette
+503,Samar State University,CA,90065,Victoria
+504,California University of Pennsylvania,NY,10014,Northport
+505,Kangwon National University,TX,79994,Dovetail
+506,London Business School,TX,76162,Claremont
+507,"Concordia College, Seward",NY,14905,Johnson
+508,Gulbarga University,SC,29615,Monument
+509,Universidade Federal de Uberlândia,CO,80209,Westridge
+510,Université de la Reunion,LA,70883,Homewood
+511,Illinois School of Professional Psychology - Chicago Campus,WV,25716,Florence
+512,Forest Research Institute Dehradun,OH,45403,Grayhawk
+513,Leading University,WV,25770,Pennsylvania
+514,"Goldsmiths College, University of London",CA,91520,Marquette
+515,Henan Normal University,NM,87505,Bay
+516,New Era University,WA,98498,Monterey
+517,"London School of Economics and Political Science, University of London",AK,99599,Mallard
+518,University of Mauritius,NY,12210,Maple Wood
+519,Lindsey Wilson College,WA,98411,Florence
+520,College of New Caledonia,NE,68517,Armistice
+521,"Bourgas University ""Prof. Assen Zlatarov""",DE,19725,Johnson
+522,University of Delaware,NV,89087,David
+523,Memphis College of Art,AZ,85737,Maple Wood
+524,Universidad San Francisco de Quito,VA,22903,Raven
+525,National Taiwan Normal University,TX,78240,Twin Pines
+526,Aquinas College,NV,89193,Russell
+527,Dong Yang University of Technology,DC,20557,Lotheville
+528,East Somalia University,PA,15220,Paget
+529,Fachhochschule St. Gallen,AZ,85383,Jenna
+530,Mahamakut Buddhist University,FL,33185,Milwaukee
+531,Cork Institute of Technology,OK,73152,Morrow
+532,Meijo University,IA,50362,Chive
+533,Georgia Southern University,NH,214,Victoria
+534,Universidad Latinoamericana,DC,20420,Porter
+535,"Royal Academy of Music, University of London",AZ,85010,Haas
+536,CCS Haryana Agricultural University,OK,74170,5th
+537,Sumgait State University,CA,92612,Merry
+538,Fachhochschulstudiengänge Steyr,FL,32244,Oak
+539,Merrimack College,KS,66611,Sycamore
+540,Université de Tunis,VA,23285,Heath
+541,Jiaying University,CA,94297,Golf
+542,Universidad Autónoma de Entre Ríos,MD,21290,School
+543,Technical University of Kenya,CA,90847,Redwing
+544,Université Paris-Dauphine (Paris IX),AZ,85305,Upham
+545,Lakshmibai National Institute of Physical Education,TX,76162,Superior
+546,Mahidol University,KS,66611,Waxwing
+547,Hajee Mohammad Danesh Science and Technology University,WA,98158,Mcguire
+548,University of Bedfordshire,DC,20220,Springview
+549,Université de Buéa,VA,20189,Bobwhite
+550,Moscow State University of Civil Engineering,CA,93111,Waywood
+551,Illinois Wesleyan University,TN,38150,Carey
+552,Faculdades Integradas UPIS,MD,20816,Cascade
+553,University of Technical Education Ho Chi Minh City,AK,99522,Lakewood Gardens
+554,University of Berne,VA,23668,Blue Bill Park
+555,Inönü University,IN,46634,Lighthouse Bay
+556,Free University of Bozen,AZ,85715,Manitowish
+557,CCS Haryana Agricultural University,CA,91505,Porter
+558,Athenaeum of Ohio,FL,32309,Annamark
+559,Yeungnam University,AR,72905,Towne
+560,Durham College,OK,73147,Vahlen
+561,Gandhi Institute of Technology and Managment,MA,1610,Merrick
+562,Bauder College,IA,50347,Knutson
+563,St. Petersburg State Cinema and TV University,IN,46825,Anhalt
+564,Universidad de Oriente,NY,12227,Crest Line
+565,Madawalabu University,FL,33320,Dunning
+566,University of St. Francis,VA,23514,Katie
+567,Charisma University,TN,37931,Arizona
+568,Al-Isra University,FL,33124,Colorado
+569,Chiba University of Commerce,WA,98133,Old Gate
+570,Academy of Economics in Katowice,CO,80249,Corry
+571,Technological University (Kalay),NY,10175,Hanover
+572,Universitas Airlangga,IL,61614,John Wall
+573,University of Southern Denmark,IL,60619,Saint Paul
+574,Mount Sinai School of Medicine,TX,88553,Scofield
+575,Adiban Higher Education Institue,FL,34605,Cordelia
+576,Fachhochschule Merseburg,MI,48206,Maryland
+577,Universidad Tecnológica Nacional,IN,46295,Dakota
+578,Community College of Denver,IN,46634,Little Fleur
+579,Ho Polytechnic ,PA,19151,Eastlawn
+580,Escuela de Ingeniería de Antioquia,NC,27621,Fieldstone
+581,"Concordia College, Seward",DC,20420,Crest Line
+582,Universitas Indonusa Esa Unggul,VA,24048,Declaration
+583,Shahrekord University of Medical Sciences,TX,78255,Loeprich
+584,Universidad Católica de Honduras,CA,93762,Stone Corner
+585,Gifu University for Education and Languages,FL,32627,Moose
+586,Saint Ferdinand College,OH,45419,Westerfield
+587,Gratz College,TX,79118,Loeprich
+588,"Federal Urdu University of Arts,Science and Technology",TN,37931,Arizona
+589,"Institute of Teachers Education, Ipoh",,33124,Colorado
+590,American University of Antigua,,98133,Old Gate
+591,Arab Open University,,80249,Corry
+592,North Eastern Hill University,,10175,Hanover
+593,Universitas Islam Riau,,61614,John Wall
+594,Reinhardt College,,45264,Ramsey
+595,San Joaquin College of Law,,59112,Lighthouse Bay
+596,Perm State Academy of Agriculture,,44760,Hermina
+597,Universidad Blas Pascal,,20337,Rowland
+598,Ohio University - Lancaster,,32230,Eastwood
+599,Kodolanyi Janos University College,,16565,Hoard
+600,Universidade dos Acores,VA,22908,Evergreen
+601,School of Planning and Architecture,AL,35225,Maryland
+602,Gardner Webb University,WI,53277,Sachs
+603,Universidad Dr. Jose Matias Delgado,WI,54305,Northridge
+604,University of lloilo,MO,63180,La Follette
+605,Valparaiso University,AL,35895,Chinook
+606,Gakushuin University,MN,55805,Scoville
+607,Universidad de Manizales,AZ,85305,Reindahl
+608,Northwestern University,MO,64082,Erie
+609,Universidad Metropolitana,FL,33487,Veith
+610,Don State Agrarian University,TX,78759,Quincy
+611,Universitas Mahasaraswati Denpasar,CO,80925,Shelley
+612,Huachiew Chalermprakiet University,SC,29505,Clarendon
+613,Fachhochschule für Bank- und Finanzwirtschaft,CA,94089,Kenwood
+614,Guangxi University,WA,98682,Hermina
+615,Lahore University of Management Sciences,MA,2472,Bluestem
+616,University of Italian Studies for Foreigners of Siena,MD,21216,Ludington
+617,Southwestern University School of Law,DC,20591,Little Fleur
+618,Eastern Nazarene College,TX,76305,Reinke
+619,Private Universität für Medizinische Informatik und Technik Tirol,IN,46202,Judy
+620,Takoradi Polytechnic ,WA,98498,Menomonie
+621,Chaminade University of Honolulu,IN,47719,Kennedy
+622,Abfi Institute Perbanas Jakarta,IN,46295,Lunder
+623,Institut des hautes études économiques et commerciales,CA,95865,Anderson
+624,Soai University,FL,34135,Heath
+625,University of Pittsburgh at Greensburg,IN,46231,Mayfield
+626,University of Victoria,DC,20310,Straubel
+627,Kyrgyz Russian Slavic University,CA,92519,4th
+628,Delhi College of Engineering (DCE),CO,80044,Old Shore
+629,West Bengal University of Animal and Fishery Sciences,PA,19125,Warner
+630,Chaminade University of Honolulu,CA,95160,Bunting
+631,University of Pardubice,CA,90005,Calypso
+632,Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique,GA,30610,Union
+633,Universidade para o Desenvolvimento do Alto Vale do Itajaí,NY,11431,Westend
+634,Kameshwar Singh Darbhanga Sanskrit University,TX,75367,Springview
+635,Bangabandhu Sheikh Mujibur Rahman Medical University,OK,74149,Walton
+636,Université de Mons-Hainaut,OK,73071,Paget
+637,University of Nevada - Reno,FL,33147,Fisk
+638,Universitas Pattimura,KY,40287,Brentwood
+639,Willamette University,NC,28410,Weeping Birch
+640,University of Bohol,TX,76711,Columbus
+641,Voronezh State Pedagogical University,CA,90840,Center
+642,Howard Payne University,NH,3105,Superior
+643,Maine Maritime Academy,CO,80243,Burning Wood
+644,Kursk State Technical University,DE,19810,Dapin
+645,Swedish University of Agricultural Sciences,TX,77010,Valley Edge
+646,University of Medicine and Pharmacy of Bucharest,OR,97286,Boyd
+647,Qassim Private College,OH,45403,Crowley
+648,Logistics Engineering University of PLA,OH,44905,Farragut
+649,Radboud University of Nijmegen,TX,75236,Harbort
+650,Warsaw School of Social Psychology,MI,49048,Glacier Hill
+651,Hainan University,OK,73119,Brown
+652,Universidad Popular Autonóma del Estado de Puebla,TN,37220,Maywood
+653,Canakkale (18th March) University,IL,60208,Carberry
+654,Pázmány Péter Catholic University,DC,56944,Magdeline
+655,Universidad de San Carlos de Guatemala,AZ,85035,Transport
+656,Instituto Superior de Relações Internacionais (ISRI) ,PA,19131,Messerschmidt
+657,Hemwati Nandan Bahuguna Garhwal University,DC,20041,Pearson
+658,Institut des Sciences de la Matière et du Rayonnement,MN,55103,Golden Leaf
+659,Third University of Rome,OH,45264,Ramsey
+660,Université d'Antananarivo,MT,59112,Lighthouse Bay
+661,Fisk University,OH,44760,Hermina
+662,Khmelnitsky National University,DC,20337,Rowland
+663,Universidad Nacional Agraria de la Selva,FL,32230,Eastwood
+664,Salam University,PA,16565,Hoard
+665,Southwestern Oklahoma State University,MO,65805,2nd
+666,University of Neuchatel,MA,2298,Manitowish
+667,KDI School of Public Policy and Management,VA,23436,Montana
+668,State University of New York at New Paltz,NC,27499,Manufacturers
+669,University of Engineering and Technology Lahore,CA,92822,Swallow
+670,Mount Allison University,NE,68134,Towne
+671,St. Petersburg State University of Culture and Arts,SC,29319,Old Shore
+672,"Islamic Azad University, Sanandaj",IL,60609,Fairfield
+673,Nanjing University of Aeronautics and Astronautics,CO,80638,Barnett
+674,University of Hargeisa,AL,36616,Spaight
+675,Institut Catholique de Paris,OH,43666,Forest Run
+676,Institute of Public Administration,LA,71166,Vahlen
+677,University of Adelaide,FL,33758,Sommers
+678,Regis College,HI,96815,Londonderry
+679,"National Institute of Technology, Calicut",OH,45426,Northridge
+680,University of Maine (System),CO,80299,Hallows
+681,Institut Supérieur de Management et de Technologie (MATCI),IL,60646,Bashford
+682,University of Nigeria,CO,80255,Monica
+683,Lebanon Valley College,OH,43284,Badeau
+684,Morris College,WV,25331,Bashford
+685,The Chicago School of Professional Psychology,AZ,85246,Browning
+686,Satakunta University Of Applied Scinces,TN,37410,Sachs
+687,Keck Graduate Institute of Applied Life Sciences,MO,64101,Lindbergh
+688,Universidad Interamericana de Educacion a Distancia de Panama,WA,98405,Moland
+689,Concord College,WV,25389,West
+690,"Islamic Azad University, Janah",LA,71307,Elka
+691,Istanbul Kultur University,CA,90305,Grim
+692,Parsons School of Design,TX,88563,Golf Course
+693,University of New Caledonia,NC,28220,Mendota
+694,Urumqi Vocational University,WI,53205,Raven
+695,Fachhochschule Bingen,IA,50362,Cambridge
+696,Algonquin College,CT,6127,Bluestem
+697,Dnepropetrovsk National University,ID,83711,Tony
+698,Universidad Intercontinental,MA,2119,Maple
+699,"Yorker International University, Milano",AL,35895,Hallows
+700,Atlanta Christian College,NV,89130,Fuller
+701,St. Anselm College,PA,17105,Artisan
+702,"Université Abou Bekr Belkaid, Tlemcen",PA,15274,Dryden
+703,Tohoku College of Pharmacy,IL,60078,Kennedy
+704,Physical Education Academy in Katowice,NJ,8650,Loftsgordon
+705,Fine Arts Academy in Wroclaw,CT,6912,Montana
+706,University of Nis,TX,79994,Dovetail
+707,St. Clair College,TX,76162,Claremont
+708,FAAP - Fundação Armando Alvares Penteado,NY,14905,Johnson
+709,Indus Institute of Higher Education,SC,29615,Monument
+710,Popakademie Baden-Württemberg,CO,80209,Westridge
+711,Centro Universitário Barao de Maua,LA,70883,Homewood
+712,Miyagi Gakuin Women's College,WV,25716,Florence
+713,New York Institute of Technology,OH,45403,Grayhawk
+714,Universidad Nacional San Luis Gonzaga,WV,25770,Pennsylvania
+715,Hebrew University of Jerusalem,CA,91520,Marquette
+716,University of Luxemburg,NM,87505,Bay
+717,Universidad San Juan de la Cruz,CT,6127,Bluestem
+718,Yamanashi Gakuin University,ID,83711,Tony
+719,Northwest University Xi'an,MA,2119,Maple
+720,Lviv National Medical Univeristy,AL,35895,Hallows
+721,Grodno State University Yanka Kupaly,NV,89130,Fuller
+722,The Manchester Metropolitan University,PA,17105,Artisan
+723,"Universidad de Puerto Rico, Rio Pedras",PA,15274,Dryden
+724,"University of Architecture, Civil Engineering and Geodesy",IL,60078,Kennedy
+725,Urmia University of Medical Sciences,NJ,8650,Loftsgordon
+726,Agricultural University of Warsaw,CT,6912,Montana
+727,Technological University (Taunggyi),SC,29615,Ohio
+728,HWP - Hamburger Universität für Wirtschaft und Politik,WV,25331,Sycamore
+729,Universidad Salesiana,MO,64101,Emmet
+730,Leading University,NC,28225,Oak
+731,Ho Chi Minh City University of Foreign Languages and Information Technology,VA,22309,Mitchell
+732,"Concordia University, Austin",TX,78764,Bashford
+733,Yan'an University,TX,77806,Duke
+734,"Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum",FL,33742,Lukken
+735,Semey State University,CA,94280,Basil
+736,Hong Bang University International,CA,92844,Hintze
+737,"Rajamangala University of Technology, Lanna Chiang Rai",AL,36616,Fuller
+738,College of St. Joseph,CA,90305,Canary
+739,Institut National Polytechnique de Lorraine,TN,37665,Memorial
+740,Christopher Newport University,FL,34745,Red Cloud
+741,Technological Education Institute of Lamia,UT,84093,Fremont
+742,Novosibirsk State Agricultural University,NY,10125,Reinke
+743,Stonehill College,MN,55448,Lakewood Gardens
+744,Universität Regensburg,DC,20078,Knutson
+745,Police Academy of Latvia,MN,55446,Moland
+746,Augustana University College,FL,34620,Evergreen
+747,Universidade Vale do Paraiba,FL,32595,Artisan
+748,"Islamic Azad University, Janah",DC,20525,Corry
+749,Northeastern State University,TN,37914,South
+750,Adventist University of Africa,CA,96154,Bultman
+751,Zhejiang Gongshang University,DC,20551,Lerdahl
+752,"St. Francis College, Loretto",MI,48335,Trailsway
+753,Ohio State University - Marion,CA,90071,Ruskin
+754,University of Plovdiv,MI,49505,Basil
+755,Pacific Graduate School of Psychology,MN,55108,Sage
+756,Kannur University,IN,46867,John Wall
+757,Hodeidah University,CT,6721,Calypso
+758,Universidad de Granada,FL,34605,Memorial
+759,Universidad Santa Maria Caracas,MN,55115,Tony
+760,Universidad Autónoma de Yucatán,NY,10090,Schiller
+761,Southern Cross University,IA,52809,Weeping Birch
+762,"Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft",MI,48211,Sundown
+763,University of Akureyri,PA,15286,Garrison
+764,Cedar Crest College,OH,45254,Basil
+765,Beijing Medical University,DC,20088,Sutteridge
+766,Pacific International College,NY,14276,Meadow Ridge
+767,Glasgow School of Art,CA,90087,Duke
+768,University of Kurdistan,KS,67210,Florence
+769,University of Szeged,DE,19886,Rockefeller
+770,Shanghai University of Finance and Economics,FL,33245,Daystar
+771,Université de Kamina,WI,54915,Columbus
+772,University of Technology Phnom Penh,WA,99260,Stephen
+773,National Aviation Univesity,CA,94116,Green
+774,University of Lucerne,NY,10203,Tony
+775,Marylhurst University,ME,4109,Nelson
+776,Universidad Columbia del Paraguay,VA,22405,Fieldstone
+777,Maine Maritime Academy,CA,95150,Tomscot
+778,Mimasaka Women's College,PA,15266,Myrtle
+779,University of Tennessee Space Institute,TX,77343,Ridgeview
+780,Chongqing Telecommunication College,OH,44191,Namekagon
+781,Centenary College of Louisiana,GA,31210,Waywood
+782,Smolensk State Medical Academy,DC,20575,Waxwing
+783,American Public University,MO,64160,Waxwing
+784,"Troy University, Phenix City",MT,59806,Maryland
+785,Universidade Bandeirante de São Paulo,TX,75367,Prentice
+786,Universidad Central del Este,AZ,85067,Nevada
+787,Hokkaido University of Health Sciences,FL,34479,Upham
+788,Higher School of University and Advanced Studies Pisa,VA,24029,Maywood
+789,Bartlesville Wesleyan College,TX,77206,Granby
+790,Brussels Management School (ICHEC),IL,60697,Fuller
+791,Dong Yang University of Technology,FL,34102,Nelson
+792,Southwest Texas State University,FL,34233,Eagan
+793,University of Craiova,SD,57198,Fuller
+794,Kebbi State University of Science and Technology,GA,31106,Cordelia
+795,Falmouth University,IA,50362,Buhler
+796,Saudi Electronic University,CT,6127,Bluestem
+797,University of Saint La Salle,ID,83711,Tony
+798,Ferrum College,MA,2119,Maple
+799,Science University of Tokyo in Yamaguchi,AL,35895,Hallows
+800,Xuzhou Normal University,NV,89130,Fuller
+801,Howard University,PA,17105,Artisan
+802,University of Texas of the Permian Basin,PA,15274,Dryden
+803,Seikei University,IL,60078,Kennedy
+804,"Victoria University Toronto, University of Toronto",NJ,8650,Loftsgordon
+805,Xijiang University,CT,6912,Montana
+806,University of Texas at Brownsville,NC,27264,Park Meadow
+807,"Queen Mary and Westfield College, University of London",TX,78715,Springview
+808,Ecole Nationale Vétérinaire d'Alfort,VA,23289,Hayes
+809,Polytechnic Institute of Bari,CA,95813,Delaware
+810,"Institute of Teachers Education, Kota Bharu",PA,15225,Atwood
+811,Grinnell College,TX,76115,Shoshone
+812,"Institute of Classical Studies, University of London",TX,78470,Stone Corner
+813,University of Houston,IN,46862,Dahle
+814,Engineering College of Copenhagen,NJ,7505,Pine View
+815,Universidad Nacional del Este,NY,12325,4th
+816,Faryab Higher Education Institute,DC,20520,Hanson
+817,"Mercer University, Cecil B. Day Campus",ND,58505,Montana
+818,Woosuk University,OH,45414,Badeau
+819,Osaka University of Education,NJ,8650,Carberry
+820,Eurasia International University,NY,10305,Little Fleur
+821,Mary Washington College,MD,21405,Duke
+822,South China Construction University,MN,55115,Stephen
+823,Ho Chi Minh City University of Technology,FL,32969,Debs
+824,Hijiyama University,IN,46239,Lake View
+825,Kure University,CA,95838,Sommers
+826,Universidad Anáhuac,LA,70593,Grover
+827,Open Polytechnic ,MI,48555,Butterfield
+828,Chulalongkorn University,CA,94273,Jana
+829,Sardar Vallabhai Patel University of Agriculture Amd Technology,NC,28256,Daystar
+830,Middle East Technical University,WA,98104,Anniversary
+831,Universidad Católica Nuestra Senora de la Asunción,WA,98405,Spohn
+832,National Academy of Fine Arts,NJ,7505,Toban
+833,Southern New Hampshire University,WA,98664,Weeping Birch
+834,College of St. Mary,UT,84409,Russell
+835,United States Sports Academy,CA,92127,Vahlen
+836,Technion - Israel Institute of Technology,MS,39404,Ramsey
+837,University of Sierra Leone,FL,33963,Prairie Rose
+838,Universidad de La Salle,MO,63196,Victoria
+839,Nigerian Defence Academy,AL,35290,Hermina
+840,Buddhasravaka Bhikshu University,NH,3804,Gina
+841,Soai University,WA,98405,Laurel
+842,Moscow External University of the Humanities,CO,81005,Hallows
+843,Samford University,FL,33345,Dottie
+844,Katholische Universität Eichstätt,AZ,85305,Center
+845,Fujian Medical University,WA,98442,Waywood
+846,Universidad Tecnológica San Antonio de Machala,CT,6120,Grasskamp
+847,University of Guelph,IN,46614,Lotheville
+848,"Islamic Azad University, Karaj",CT,6127,Bluestem
+849,Universidad Autónoma de Tlaxcala,ID,83711,Tony
+850,Miyazaki University,MA,2119,Maple
+851,Moscow State Institute of Steel and Alloys,AL,35895,Hallows
+852,The Global College Lahore,NV,89130,Fuller
+853,Fine Arts Academy in Wroclaw,PA,17105,Artisan
+854,Universiti Teknikal Malaysia Melaka,PA,15274,Dryden
+855,Foothill-De Anza Community College District,IL,60078,Kennedy
+856,Florida Agricultural and Mechanical University,NJ,8650,Loftsgordon
+857,Shimer College,CT,6912,Montana
+858,"Davenport College of Business, Lansing",MI,48098,Gale
+859,Dallas Christian College,AL,36689,Lotheville
+860,Tashkent School of Finance,NC,27615,Laurel
+861,Kyushu Institute of Technology,CA,95123,Artisan
+862,Florida Christian College,NJ,7505,Transport
+863,Kilimanjaro Christian Medical College,TN,37220,Graedel
+864,Universidad Mesoamericana de San Agustín,LA,70142,Larry
+865,Assam Agricultural University,IN,47905,Farragut
+866,Universidad de Hermosillo,KY,40250,Moulton
+867,Ilam University,LA,70820,South
+868,"University of Maine, Orono",NY,14624,Tony
+869,University of Wisconsin - La Crosse,CA,94616,Bartillon
+870,Hong Kong Baptist University,NY,13205,Waywood
+871,Hyupsung University,GA,30392,Erie
+872,Theologische Hochschule Friedensau,OH,43204,1st
+873,Basilicata University Potenza,CA,91841,Tomscot
+874,Universität für Musik und darstellende Kunst Graz,NC,27110,Upham
+875,Usmanu Danfodiyo University Sokoto,OK,74184,Walton
+876,St. Cloud State University,NM,87180,Bartelt
+877,Memphis College of Art,NY,12222,Brentwood
+878,Universität Fridericana Karlsruhe (Technische Hochschule),MO,63180,Rieder
+879,Universitas Sriwijaya,CA,95813,International
+880,Université de Bretagne Sud,DC,20238,Schlimgen
+881,Shiraz University of Technology,DC,20392,Sullivan
+882,Multimedia University,IL,61614,Dahle
+883,American InterContinental University - Georgia,GA,31106,Eggendart
+884,Shanghai University of Traditional Chinese Medicine and Pharmacology,VA,20189,Katie
+885,Changchun University of Technology,OH,43699,Almo
+886,Shandong University of Science and Technology,NV,89115,Claremont
+887,Universidad Nacional de San Martín,PA,15225,Straubel
+888,Universidad Rafael Landívar,CA,91186,Vera
+889,Jubail University College,VA,22036,Walton
+890,University of Bradford,CA,94302,Mockingbird
+891,Universidad Nacional del Nordeste,CT,6538,Talisman
+892,George Washington University,MI,48232,Buhler
+893,Vali-e-Asr University,NE,68531,Fulton
+894,Holy Spirit University of Kaslik,CA,93386,Brentwood
+895,International School of Management,WI,53277,Westend
+896,University of Kelaniya,IN,47712,Bay
+897,Technological University (Hmawbi),DE,19725,Gulseth
+898,Nalanda Open University,FL,34981,Cardinal
+899,Dumlupinar University,CT,6160,Norway Maple
+900,Universidad Nacional de La Plata,NE,68524,Northfield
+901,Universidad de Concepcion,MI,49444,Wayridge
+902,North Maharashtra University,NY,12325,Ryan
+903,Universitas Putera Batam,CA,94147,Springs
+904,Judson College Marion,NY,10024,Dwight
+905,Nelson Mandela Metropolitan University,WV,25305,Eastwood
+906,Assam University,CA,94807,Packers
+907,Lamar University - Port Arthur,TN,38143,Fieldstone
+908,Prague College,ID,83705,Saint Paul
+909,Universidad Autonoma  de Durango,AL,35895,Lake View
+910,Internationle Akademie für Philosophie,CA,93709,Morrow
+911,Grove City College,CA,92137,Onsgard
+912,Danish Business Academy,WV,25313,Alpine
+913,Université Catholique de Bukavu,UT,84115,Leroy
+914,College of Technology at Abha,PA,19120,Longview
+915,Université de Sfax,PA,19610,Old Shore
+916,Universidad Pedagógica Veracruzana,CA,91616,Dahle
+917,Universidad del Valle de Atemajac,DC,20067,Mockingbird
+918,Elmergib University,AZ,85205,Alpine
+919,Pontifícia Universidade Católica do Rio Grande do Sul,TN,37215,Clove
+920,Chang Gung University,DC,20073,Daystar
+921,Instituto Tecnológico y de Estudios Superiores de Occidente,NC,28289,Glacier Hill
+922,Universidade Federal do Ceará,NC,28405,Summit
+923,Universidad Católica de Colombia,WV,26505,Hovde
+924,Tashkent Pharmaceutical Institute,MO,64125,Cottonwood
+925,Université Cheikh Anta Diop,CA,92844,Waubesa
+926,City University of New York (CUNY) System,TX,75379,Kenwood
+927,Universidad Autonoma  de Durango,OH,44485,Columbus
+928,Bowie State University,WA,98417,Arkansas
+929,"Institute of Management Sciences, Peshawar",KS,66112,Spaight
+930,Thamar University,OH,45807,Portage
+931,Ecole Nationale Supérieure de l'Aéronautique et de l'Espace,DC,20226,Hauk
+932,"Skyline University College, Sharjah",LA,70005,Hanson
+933,Hankuk University of Foreign Studies,CA,93311,Raven
+934,Universidad Autónoma de Santo Domingo,MA,1152,Jackson
+935,Girne American University,MD,20883,Huxley
+936,"St. Joseph's College New York, Suffolk Campus",MN,55590,Rusk
+937,Beppu University,CA,94105,Loeprich
+938,Bu Ali Sina University,UT,84605,Warbler
+939,Ahvaz University of Medical Sciences,IN,46247,Paget
+940,University Oil- Gas Ploiesti,CT,6538,Gale
+941,School of Business and Finance,CA,93305,Park Meadow
+942,Universidad Católica Cecilio Acosta,FL,33462,Pennsylvania
+943,Ecole Centrale de Lyon,OH,44197,Fuller
+944,Institut National Polytechnique de Toulouse,NY,11499,Transport
+945,Clarkson University,TN,37405,Clyde Gallagher
+946,Universidad Privada Antenor Orrego,DC,20525,Susan
+947,Wellspring University,NC,28263,Fairview
+948,Kota Bharu Polytechnic,LA,70810,Norway Maple
+949,Universidad Privada San Juan Bautista,CA,92662,Johnson
+950,Brescia University,WI,53790,Birchwood
+951,Central Police University,LA,70033,Corben
+952,Universidade São Marcos,AL,35295,Manley
+953,London Metropolitan University,VA,23520,Kropf
+954,Technological University of Podillya,NC,28242,Almo
+955,University College of the Fraser Valley,HI,96815,Dahle
+956,University of Technology,MA,1152,Jackson
+957,Asian Medical Institute,MD,20883,Huxley
+958,Tbilisi State Medical University,MN,55590,Rusk
+959,University of Basel,CA,94105,Loeprich
+960,Stavropol State University,UT,84605,Warbler
+961,Senzoku Gakuen College,IN,46247,Paget
+962,Nippon Veterinary and Animalscience University,CT,6538,Gale
+963,Shridhar University,CA,93305,Park Meadow
+964,Izmir Economic University,FL,33462,Pennsylvania
+965,Universidade para o Desenvolvimento do Alto Vale do Itajaí,OH,44197,Fuller
+966,Koyasan University,NY,11499,Transport
+967,University of Applied Sciences Aargau,TN,37405,Clyde Gallagher
+968,Jai Prakash University,DC,20525,Susan
+969,West Virginia State College,NC,28263,Fairview
+970,British Columbia Institute of Technology,MA,1114,Portage
+971,Northwest University Xi'an,LA,70805,Clyde Gallagher
+972,Shanxi Agricultural University,MI,48956,Merry
+973,"University of Halifax, Birmingham Campus",TX,76598,Brown
+974,National Dairy Research Institute,WI,53405,Macpherson
+975,Komsomolsk-on-Amur State Technical University,FL,32868,Prairie Rose
+976,State University of New York College of Technology at Alfred,NY,10280,Roxbury
+977,London Guildhall University,FL,34615,6th
+978,Kettering University (GMI),TX,76205,Montana
+979,The New School,MA,1152,Jackson
+980,"Indian Institute of Technology, Roorkee",MD,20883,Huxley
+981,Asia E University,MN,55590,Rusk
+982,British Royal University,CA,94105,Loeprich
+983,Shaheed Beheshti University,UT,84605,Warbler
+984,Universidad de Concepción del Uruguay,IN,46247,Paget
+985,"University of the Punjab, Gujranwala Campus",CT,6538,Gale
+986,Brexgata University Academy,CA,93305,Park Meadow
+987,Cairo University,FL,33462,Pennsylvania
+988,Facultés Universitaires Saint-Louis,OH,44197,Fuller
+989,Pacific Oaks College,NY,11499,Transport
+990,Huston-Tillotson College,TN,37405,Clyde Gallagher
+991,Agricultural University of Lublin,DC,20525,Susan
+992,School of the Visual Arts,NC,28263,Fairview
+993,Hvanneyri Agricultural University,CA,92505,Ridgeview
+994,Universidad Nacional de Colombia,SC,29215,Waubesa
+995,North Carolina Wesleyan College,KY,40505,Marcy
+996,Zhejiang Gongshang University,DC,20215,Charing Cross
+997,University of Islamic Studies,OH,45020,Longview
+998,Universidade Católica de Angola,NC,27157,Fremont
+999,Universidad Franciscana de México,TX,75044,Lillian
+1000,Ecole de l'Air,GA,30380,Chinook

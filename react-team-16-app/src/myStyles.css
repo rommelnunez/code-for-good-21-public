@@ -1,0 +1,36 @@
+.primary {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 45px;
+    letter-spacing: 0.5px;
+    color: #121923;
+    margin: 0;
+    border: 0;
+    padding-bottom: 0;
+}
+.secondary {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    color: #121923;
+}
+.box {
+    inline-size: 400px;
+    overflow-wrap: break-word;
+}
+.firstbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.firstbox .ranks {
+    flex-direction: column;
+}
+.tableau {
+    padding-left: 50px;
+}
